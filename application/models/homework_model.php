@@ -16,7 +16,8 @@ class Homework_model extends CI_Model
 		return $this->db->get($table);
 	}
 	
-	function get_all_homework($table = "homework") {
+	function get_all_homework($table = "homework") 
+	{
 		return $this->db->get($table);
 	}
 	
@@ -29,7 +30,8 @@ class Homework_model extends CI_Model
         return true;
     }
 	
-    function delete_homework_by_hid($hid, $table = 'homework') {
+    function delete_homework_by_hid($hid, $table = 'homework') 
+    {
         $this->db->where('hid', $hid);
         if (!$this->db->delete($table))
             return false;
