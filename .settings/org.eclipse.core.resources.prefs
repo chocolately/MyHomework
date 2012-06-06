@@ -1,0 +1,12 @@
+#Wed Jun 06 11:02:58 CST 2012
+eclipse.preferences.version=1
+encoding//application/controllers/page.php=UTF-8
+encoding//application/controllers/teacher.php=UTF-8
+encoding//application/controllers/user.php=UTF-8
+encoding//application/models/assignment_model.php=UTF-8
+encoding//application/models/homework_model.php=UTF-8
+encoding//application/models/teacher_model.php=UTF-8
+encoding//application/views/alert_view.php=UTF-8
+encoding//application/views/login_view.php=UTF-8
+encoding//application/views/manageUsr_view.php=UTF-8
+encoding//application/views/stuHm_view.php=UTF-8
